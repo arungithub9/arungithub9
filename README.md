@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arungithub9
 - 👀 I’m interested in all things Linux, DevOps and Architecture.
-- 💻 I work as a Software Developer (DevOps) at Oracle and help build [APEX](apex.oracle.com), an amazing low-code platform. 
+- 💻 I work as a Software Developer (DevOps) at Oracle and help build APEX - apex.oracle.com, an amazing low-code platform. 
 - 📫 Contact me at am6897@outlook.com
 
 <!---
